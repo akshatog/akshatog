@@ -1,16 +1,118 @@
-## Hi there 👋
+# Hey, I'm Akshat Ogale 👋
 
-<!--
-**akshatog/akshatog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer & Full-Stack Developer** | Agentic Systems · LLM Pipelines · Developer Tooling
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+systems+that+think...;LangGraph+%7C+Next.js+%7C+PostgreSQL;One+commit+closer%2C+every+day.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+
+- 🎓 3rd-year CS undergrad @ **KIET Group of Institutions** (Batch 2024–2028)
+- 🤖 Obsessed with **Agentic AI** — multi-agent pipelines, RAG systems, and LLM orchestration
+- 🛠️ Full-stack builder with a strong lean toward **backend architecture & AI integration**
+- 🌱 Active **GSSoC contributor** under the AI Agents Track
+- 🎯 Career goal: **AI Engineer** who ships real products, not just research
+
+---
+
+## 🚀 Key Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[DevLens](https://github.com/akshatog/devlens)** | GitHub repo analyzer SaaS — AI-powered code insights, audio summaries | Next.js 15, Gemini, AssemblyAI, Neon, Stripe |
+| **AI SOC Analyst Agent** | 5-agent autonomous pipeline for CVE triage & patch planning | LangGraph, pgvector, PostgreSQL, CERT-In |
+| **SankatMochi** | Voice-first Hindi emergency PWA for Google Solution Challenge | Gemini Live API, Firebase, PWA |
+| **SmartRoute AI** | Cost-aware multi-agent dev system with cross-provider model routing | LangGraph, LiteLLM, Redis pub/sub |
+
+---
+
+## 🛠️ Currently Building
+
+### 🔐 AI-Powered Autonomous SOC Analyst *(Final Year Project)*
+> A 5-agent LangGraph pipeline for enterprise CVE triage, asset correlation, and automated patch planning — aligned with **CERT-In / NTRO (GOV-CS-018)** standards.
+
+- **My Agents:** A2 (Asset Correlator) · A4 (Remediation Planner)
+- **My Ownership:** LangGraph state schema · Composite risk scoring · pgvector RAG
+- **Target:** ICACCI / ICDCN 2026 research publication
+
+### 🧰 envfill *(Developer Tool)*
+> CLI tool that auto-populates `.env` files with real API keys using browser automation — 30-service registry, distributed as an `npx` package on Antigravity.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🌐 Frontend & UI
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Backend, DB & Auth
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI & Agentic Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graph&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+
+---
+
+## 🤝 Open to Collaborate On
+
+- **Agentic AI systems** — multi-agent pipelines, RAG, LLM orchestration
+- **Full-stack SaaS** — Next.js products with real users and real revenue
+- **Developer tooling** — things that make devs' lives less painful
+- **Open source** — especially AI agents or infra tooling
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatog&theme=github_dark&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatog&theme=github_dark&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshatog&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatog&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatog)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshatog&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+### 🎯 If you made it this far —
+> This is where I build things, break them, understand why they broke, and build them better.  
+> Star what you like. Fork what you need. Reach out if you want to ship something together.  
+> *One commit closer, every day.*
+
+---
+[![](https://visitcount.itsvg.in/api?id=akshatog&icon=0&color=0)](https://visitcount.itsvg.in)
