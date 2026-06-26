@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-- 🎓 3rd-year CS undergrad @ **KIET Group of Institutions** (Batch 2024–2028)
+- 🎓 CS undergrad @ **Krishna Group of Institutions, Ghaziabad** (Batch 2024–2028)
 - 🤖 Obsessed with **Agentic AI** — multi-agent pipelines, RAG systems, and LLM orchestration
 - 🛠️ Full-stack builder with a strong lean toward **backend architecture & AI integration**
 - 🌱 Active **GSSoC contributor** under the AI Agents Track
