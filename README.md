@@ -20,9 +20,12 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[DevLens](https://github.com/akshatog/devlens)** | GitHub repo analyzer SaaS — AI-powered code insights, audio summaries | Next.js 15, Gemini, AssemblyAI, Neon, Stripe |
-| **AI SOC Analyst Agent** | 5-agent autonomous pipeline for CVE triage & patch planning | LangGraph, pgvector, PostgreSQL, CERT-In |
-| **AI Email Automation System** | — Autonomous pipeline that reads intent, crafts personalized emails, and delivers them without touching a keyboard. |
+| **[DevLens](https://github.com/akshatog/devlens)** | GitHub repo analyzer SaaS — AI-powered code insights, audio summaries & developer analytics | Next.js 15, Gemini, AssemblyAI, Neon, Stripe |
+| **[AI Email Automation](https://github.com/akshatog/email-automation)** | Autonomous Gmail pipeline that classifies intent, retrieves context via RAG, drafts replies, and labels threads — zero manual triage | LangGraph, LangChain, Groq, ChromaDB, FastAPI |
+| **[envfill](https://github.com/akshatog/Env-Bot)** | One command auto-populates your entire `.env` — scans codebase, opens the right dashboard, logs in, and writes the keys for you | Node.js, Playwright, Vision AI, npx |
+| **[Zync](https://github.com/akshatog/zync)** | Real-time social app with HD video/audio calls, language exchange matchmaking, and live presence tracking | React, Socket.io, GetStream, MongoDB, Express |
+| **AI SOC Analyst Agent** | 5-agent autonomous pipeline for CVE triage, asset correlation & patch planning — aligned with CERT-In/NTRO standards | LangGraph, pgvector, PostgreSQL |
+
 ---
 
 ## 🛠️ Currently Building
