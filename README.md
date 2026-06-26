@@ -1,4 +1,4 @@
-# Hey, I'm Akshat Ogale 👋
+# Hey, I'm Akshat Agarwal 👋
 
 **AI Engineer & Full-Stack Developer** | Agentic Systems · LLM Pipelines · Developer Tooling
 
