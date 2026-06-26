@@ -22,9 +22,7 @@
 |---|---|---|
 | **[DevLens](https://github.com/akshatog/devlens)** | GitHub repo analyzer SaaS — AI-powered code insights, audio summaries | Next.js 15, Gemini, AssemblyAI, Neon, Stripe |
 | **AI SOC Analyst Agent** | 5-agent autonomous pipeline for CVE triage & patch planning | LangGraph, pgvector, PostgreSQL, CERT-In |
-| **SankatMochi** | Voice-first Hindi emergency PWA for Google Solution Challenge | Gemini Live API, Firebase, PWA |
-| **SmartRoute AI** | Cost-aware multi-agent dev system with cross-provider model routing | LangGraph, LiteLLM, Redis pub/sub |
-
+| **AI Email Automation System** | — Autonomous pipeline that reads intent, crafts personalized emails, and delivers them without touching a keyboard. |
 ---
 
 ## 🛠️ Currently Building
