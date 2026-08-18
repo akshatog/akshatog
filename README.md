@@ -20,10 +20,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| **[Zync](https://github.com/akshatog/zync)** | Real-time social app with HD video/audio calls, language exchange matchmaking, and live presence tracking | React, Socket.io, GetStream, MongoDB, Express |
+| **[SnapBill](https://github.com/akshatog/snapbill)** | Mobile-first billing system for a family grocery store — offline-friendly, ESC/POS thermal printing, built for a non-technical shop employee | React Native, TypeScript, Node.js, PostgreSQL |
 | **[DevLens](https://github.com/akshatog/devlens)** | GitHub repo analyzer SaaS — AI-powered code insights, audio summaries & developer analytics | Next.js 15, Gemini, AssemblyAI, Neon, Stripe |
 | **[AI Email Automation](https://github.com/akshatog/email-automation)** | Autonomous Gmail pipeline that classifies intent, retrieves context via RAG, drafts replies, and labels threads — zero manual triage | LangGraph, LangChain, Groq, ChromaDB, FastAPI |
-| **[envfill](https://github.com/akshatog/Env-Bot)** | One command auto-populates your entire `.env` — scans codebase, opens the right dashboard, logs in, and writes the keys for you | Node.js, Playwright, Vision AI, npx |
-| **[Zync](https://github.com/akshatog/zync)** | Real-time social app with HD video/audio calls, language exchange matchmaking, and live presence tracking | React, Socket.io, GetStream, MongoDB, Express |
 | **[AI SOC Analyst Agent](https://github.com/AkshatSharma-05/AI-Powered-Autonomous-SOC-Analyst-Agent)** | 5-agent autonomous pipeline for CVE triage, asset correlation & patch planning — aligned with CERT-In/NTRO standards | LangGraph, pgvector, PostgreSQL |
 
 ---
@@ -33,12 +33,15 @@
 ### 🔐 AI-Powered Autonomous SOC Analyst *(Final Year Project)*
 > A 5-agent LangGraph pipeline for enterprise CVE triage, asset correlation, and automated patch planning — aligned with **CERT-In / NTRO (GOV-CS-018)** standards.
 
-- **My Agents:** A2 (Asset Correlator) · A4 (Remediation Planner)
-- **My Ownership:** LangGraph state schema · Composite risk scoring · pgvector RAG
+- **Status:** 3 of 5 agents built and functional, actively building solo
+- **Shipped so far:** Asset Correlator (A2) · Remediation Planner (A4) · [third agent — name it here]
 - **Target:** ICACCI / ICDCN 2026 research publication
 
-### 🧰 envfill *(Developer Tool)*
-> CLI tool that auto-populates `.env` files with real API keys using browser automation — 30-service registry, distributed as an `npx` package on Antigravity.
+### 🧾 SnapBill *(Active Build)*
+> Mobile-first billing system designed for a real family grocery store — offline-first architecture, Bluetooth thermal printing, and a formal 12-principle spec (`constitution.md`) governing how AI proposes vs. how the backend confirms prices and totals.
+
+- **Stack:** React Native + TypeScript · Node.js + TypeScript · PostgreSQL · ESC/POS Bluetooth printing
+- **Approach:** spec-driven development, hand-verified pricing logic, human confirmation gate for ambiguous matches
 
 ---
 
