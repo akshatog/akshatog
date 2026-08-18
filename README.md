@@ -87,12 +87,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=akshatog&theme=github_dark&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akshatog&theme=github_dark&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=akshatog&limit=5&combine_all_yearly_contributions=true" />
+  <img src="https://github-stats-extended-frontend-2.vercel.app/api?username=akshatog&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-stats-extended-frontend-2.vercel.app/api/top-langs/?username=akshatog&theme=github_dark&layout=compact&hide_border=true" height="165" />
 </p>
 
 <p align="center">
