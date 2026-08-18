@@ -92,6 +92,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=akshatog&limit=5&combine_all_yearly_contributions=true" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=akshatog&theme=github-dark-blue&hide_border=true" />
 </p>
 
